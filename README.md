@@ -39,4 +39,4 @@ A simple web application that converts one currency to another using real-time e
 
 ## Author
 
-Deep
+Deepak
